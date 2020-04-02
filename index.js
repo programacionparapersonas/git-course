@@ -1,1 +1,2 @@
-console.log("Esto es una prueba de que funciona el archivo javascript!")
+
+alert('Bienvenidos!')
